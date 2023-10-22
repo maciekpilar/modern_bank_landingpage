@@ -1,6 +1,6 @@
 # Bank landingpage
 
-**Live Preview: [Here](modern-bank-landingpage-livid.vercel.app)**
+**Live Preview: [Here](https://modern-bank-landingpage-livid.vercel.app)**
 
 Fully responsive and modern looking landingpage.
 
